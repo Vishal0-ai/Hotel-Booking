@@ -1,2 +1,2 @@
-# Hotel-Booking
-Created a responsive site to book hotel rooms with HTML, CSS, and JavaScript, which is compatible with the  cross- browsers and mobile-responsive 
+# Hotel_Miranda_16-10-23
+Learn how to create a stunning hotel booking website from scratch using HTML, CSS, and JavaScript in this comprehensive tutorial.
